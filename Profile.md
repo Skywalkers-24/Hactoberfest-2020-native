@@ -11,3 +11,4 @@
 | Seungmin Sa      | [harang](https://github.com/saseungmin)| Front-End              | Age 26, Republic of Korea |
 | Ajay Karki       |        [AjayKarki](https://github.com/AjayKarki/)        | Chess, Programming | Software Engineer|
 | Thrilanka        |              https://github.com/rasarathrilanka    |         Programming |     keen learner          |
+| Rasara           |              https://github.com/rasarathrilanka    |         Backend Developing |     keen learner          |
